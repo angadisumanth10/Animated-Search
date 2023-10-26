@@ -37,3 +37,22 @@ The code includes the following external dependencies:
 - [Google Fonts](https://fonts.google.com/): The "Quicksand" and "Zeyada" fonts are linked for the project.
 
 Make sure to properly include these dependencies in your HTML file as demonstrated in the provided code.
+
+## How to Run
+
+To run this search bar in your web browser, follow these steps:
+
+1. Clone this repository to your local machine, or download and extract the ZIP archive.
+
+2. Navigate to the project directory using a file explorer or the command line.
+
+3. Locate the `index.html` file.
+
+4. Double-click on the `index.html` file. This will open the HTML file in your default web browser.
+
+5. You should now see the search bar in your web browser, and you can interact with it.
+
+That's it! You've successfully run the search bar in your web browser.
+
+**Note:** You can also host this HTML file on a web server for online access.
+
